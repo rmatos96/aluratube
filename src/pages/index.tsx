@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <Menu />
       <Header />
-      <Timeline playlists={config.playlists} favourites={config} />
+      <Timeline playlists={config.playlists} favourites={config.favourites} />
     </div>
   )
 }

@@ -3,11 +3,13 @@
     "favourite": [
       {
         "username": "@rmatos96",
-        "name": "Rodrigo Matos"
+        "name": "Rodrigo Matos",
+        "avatar": "https://avatars.githubusercontent.com/u/98776713?v=4"
       },
       {
-        "username": "@josney",
-        "name": "Josney"
+        "username": "@hawk",
+        "name": "Hawkzera",
+        "avatar": "https://avatars.githubusercontent.com/u/80161184?v=4"
       }
     ]
   },
